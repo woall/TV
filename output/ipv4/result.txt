@@ -1,12 +1,12 @@
 🕘️更新时间,#genre#
-2026-09-29 02:12:05,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+2026-09-29 09:40:32,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 
 📺央视频道,#genre#
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-16,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/index.m3u8
 CCTV-17,https://live.264788.xyz/channel/cctv17
-CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
 CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
+CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
 
 💰央视付费频道,#genre#
 文化精品,https://live.264788.xyz/channel/yangshiwenhuajingpin
@@ -31,14 +31,15 @@ CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山西卫视,https://live.264788.xyz/channel/shanxiweishi
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi
+四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=21be5901ee81559c827dc84e46f26452&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 西藏卫视,https://live.264788.xyz/channel/xizangweishi
 新疆卫视,https://live.264788.xyz/channel/xinjiangweishi
 新疆卫视,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
 
 ☘️广东频道,#genre#
 广东珠江,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdzj
-广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub
 广东珠江,http://173.208.234.146/live/gdzj.m3u8
+广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub
 
 ☘️浙江频道,#genre#
 之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
@@ -85,8 +86,8 @@ CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 扬州邗江,https://cm-wshls.homecdn.com/live/8c3.m3u8
 武进新闻,https://live.wjyanghu.com/live/CH1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 武进新闻,http://live.wjyanghu.com/live/CH1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-武进生活,https://live.wjyanghu.com/live/CH2.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 武进生活,http://live.wjyanghu.com/live/CH2.m3u8
+武进生活,https://live.wjyanghu.com/live/CH2.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 涟水综合,rtmp://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw
 苏州4k,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 赣榆新闻综合,rtmp://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv
@@ -115,7 +116,6 @@ CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 ☘️四川频道,#genre#
 乐至综合,http://175.155.106.72:89/live1/live1.m3u8?zsicd;http://rmlive.lzxrmtzx.com/live1/live1.m3u8?zsicd
 井研综合,http://tvfile.jyrmt.cn/nmip-media/channellive/channel104452/playlist.m3u8
-仁寿综合,https://play.scrstv.com.cn/DT/live.m3u8?auth_key=60001724663204-0-0-c1cc4ded9841ac34f63cdbd3aec647ef
 凉山新闻综合,rtmp://tv.drs.i0834.cn/channellive/ch1?zsicd
 凉山新闻综合,rtmp://tv.drs.yizu.tv/channellive/ch1?zsicd
 凉山语,rtmp://tv.drs.i0834.cn/channellive/ch2?zsicd
@@ -166,6 +166,7 @@ CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 天祝综合,https://play.kankanlive.com/live/1656487214793905.m3u8
 平凉新闻综合,http://play.kankanlive.com/live/1720583434627241.m3u8
 永昌综合,http://play.kankanlive.com/live/1720408280309109.m3u8
+甘南综合,https://play.kankanlive.com/live/1711955176432990.m3u8
 白银综合,https://play.kankanlive.com/live/1720408089419110.m3u8
 秦安综合,rtmp://play.kankanlive.com/live/1680577080200944
 秦安综合,http://play.kankanlive.com/live/1683944827526991.m3u8
@@ -188,6 +189,7 @@ CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 山东文旅,http://58.57.40.22:9901/tsfile/live/1023_1.m3u8
 青州综合,rtmp://sdqz.chinashadt.com:2036/live/stream:1.stream
 东营综合,rtmp://stream.hhek.cn:9936/live/xwzh_sd?shandd
+烟台经济科技,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=163713&tk=6949f8ce7202
 菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8?shandd
 菏泽经济生活,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8?shandd
 
@@ -263,6 +265,9 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
+天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
+天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
+天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天津体育,http://168250.xyz:1111/rtp/239.5.1.3:5000
 
 🪁动画频道,#genre#
